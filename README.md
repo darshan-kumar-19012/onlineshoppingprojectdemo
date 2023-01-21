@@ -1,13 +1,13 @@
 # onlineshoppingprojectdemo
 This project is created as a outcome of an learning.This a ecommerce site developed using php as a backend and mysql as a database and html,css as a frontend.
 
-##Technologies
+## Technologies
   Php
   Html
   CSS
   MYSQL
 
-##Set Up Instructions For Running Website
+## Set Up Instructions For Running Website
   Start the Apache and MySQL modules using the XAMPP controller.
   Open the phpMyAdmin and create a database "ecommerce".
   Import the ecommerce.sql file present in the zip folder.
