@@ -1,4 +1,4 @@
-# onlineshopping learning outcome 
+# onlineshopping
 This project is created as a outcome of an learning.This a ecommerce site developed using php as a backend and mysql as a database and html,css as a frontend.
 
 ## Technologies
