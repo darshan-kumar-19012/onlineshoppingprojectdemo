@@ -1,5 +1,5 @@
 # onlineshopping
-This project is created as a outcome of an learning.This a ecommerce site developed using php as a backend and mysql as a database and html,css as a frontend.
+This project is created as a outcome of learning. This a ecommerce site developed using php as a backend and mysql as a database and html,css as a frontend.
 
 ## Demo Video
 https://user-images.githubusercontent.com/79315464/213865639-46bca5f7-7c7d-461c-94ac-25b1b8387822.mp4
