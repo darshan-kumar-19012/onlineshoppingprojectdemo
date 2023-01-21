@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/79315464/213865639-46bca5f7-7c7d-461c-
   - Open the phpMyAdmin and create a database "shopping".
   - Import the shopping.sql file present in the zip folder.
   - Open the htdocs folder in the xampp folder. Copy paste the folder onlineshopping.
-  Open the browser, type localhost/onlineshopping and you should see the index page of the website.
+  - Open the browser, type localhost/onlineshopping and you should see the index page of the website.
 
 
 
