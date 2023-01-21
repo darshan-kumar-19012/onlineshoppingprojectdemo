@@ -3,13 +3,13 @@ This project is created as a outcome of an learning.This a ecommerce site develo
 
 ## Technologies
   * Php
-  Html
-  CSS
-  MYSQL
+  * Html
+  * CSS
+  * MYSQL
 
 ## Set Up Instructions For Running Website
-  Start the Apache and MySQL modules using the XAMPP controller.
-  Open the phpMyAdmin and create a database "ecommerce".
-  Import the ecommerce.sql file present in the zip folder.
-  Open the htdocs folder in the xampp folder. Copy paste the folder Planet-Shopify-ecommerce-website.
-  Open the browser (chrome), type localhost/Planet-Shopify-ecommerce-website and you should see the index page of the website.
+  - Start the Apache and MySQL modules using the XAMPP controller.
+  - Open the phpMyAdmin and create a database "shopping".
+  - Import the shopping.sql file present in the zip folder.
+  - Open the htdocs folder in the xampp folder. Copy paste the folder onlineshopping.
+  Open the browser, type localhost/onlineshopping and you should see the index page of the website.
