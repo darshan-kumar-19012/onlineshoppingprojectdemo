@@ -1,0 +1,20 @@
+.row{
+  	background-color: blueviolet;
+  	margin: 50px;
+  	margin-right: 40%;
+  	color:white;
+  }
+.featured-title {
+    text-transform: uppercase;
+    font-weight: 900;
+    border-left: 10px solid #fec500;
+    padding-left: 10px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+.col-2{
+  padding: 30px;
+}
+   
+
+

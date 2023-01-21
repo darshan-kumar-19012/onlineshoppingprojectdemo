@@ -1,0 +1,127 @@
+body{
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    overflow-x: hidden;
+}
+.main-img {
+    overflow-x: hidden;
+    display: block;
+}
+.display-items{
+    margin-top: 2%;
+}
+.display-items a{
+    text-decoration:none;  
+}
+.display-items a:hover{
+    color:blue;
+}
+.display-items ul{
+    list-style-type:none;  
+}
+.display-items li{
+    display:inline-block;
+    width: 15%;
+    margin-left: 1%;
+    border: 1px solid rgb(235, 235, 238);
+}
+
+.list-inside{
+    display: block;
+    overflow: hidden;
+    margin: 3%;
+}
+.list-inside h3,h4,button{
+    font-size: large;
+}
+.list-inside button{
+    background-color: #e7e7e7; 
+    color: black; 
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.list-inside button:hover{
+    opacity: 0.8;
+    background-color: blue;
+    color:white;
+}
+.list-inside-laptop{
+    display: block;
+    overflow: hidden;
+    margin: 3%;
+}
+.display-items-laptop li{
+    display:inline-block;
+    width: 23.5%;
+    margin-left: 1%;
+    border: 1px solid rgb(235, 235, 238);
+}
+.list-inside-laptop h3,h4,button{
+    font-size: large;
+}
+.list-inside-laptopbutton{
+    background-color: #e7e7e7; 
+    color: black; 
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.list-inside-laptop button{
+    background-color: #e7e7e7; 
+    color: black; 
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.list-inside-laptop button:hover{
+    background-color: blue; 
+    color: white; 
+}
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+  }
+  
+  /* Hide the images by default */
+  .mySlides {
+    display: none;
+  }
+  
+  /* Next & previous buttons */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+  
+  
